@@ -4,7 +4,7 @@ Repository comprenant les codes et données utilisées pour le mémoire de premi
 # Description des différents dossiers présents sur la branche : 
 
 
-## Code :
+## M2/Code :
 Notebooks utilisés pour la production des divers premiers résultats dont en voici une courte description : 
 - Calculs_stats_simple_moyenne : Comme son nom l'indique, premiers calculs pour prendre le corpus en main. Taille des séances moyennes, répartition du nombre de mots, etc.
 - Concordancier représentations visuelles : Concordancier comprenant plusieurs représentations visuelles qui n'ont pas toutes été retenues, possibilité d'afficher le nombre d'occurrences d'un mot par années, de voir s'il y a plus d'occurrences une année par rapport à la moyenne, etc.
@@ -18,6 +18,8 @@ Notebooks utilisés pour la production des divers premiers résultats dont en vo
 - TOP2VEC colab : Tentative de Top2Vec puis clustering "à la main" après que l'application du modèle ne puisse pas être menée à bien faute de puissance de calcul.
 - Contexte sémantique version colab : Notebook le plus pertinent pour l'étude en question, reprend les étapes du notebook concordancier pour ensuite utiliser les extraits en question et en retenir le contexte sémantique autour des mots cible. L'exemple ici utilisé de "canal" est encore une fois celui qui retourne les résultats les plus satisfaisant.
 
+# Code : 
+Notebooks utilisés pour la première version du rendu en M1, conservés ici a des fins de comparaison et de correction eventuellement
 
 ## ocr_sorted : 
 L'ensemble des débats parlementaires océrisés, un document correspondant à une séance dont le titre est la date de ladite session. Il y a donc 7461 séances sous la forme de documents .txt dans le dossier.
