@@ -4,6 +4,23 @@ Repository comprenant les codes et données utilisées pour le mémoire de premi
 # Description des différents dossiers présents sur la branche : 
 
 
+
+# ------------------------------------------------------------
+# Organisation de la branche M3 : 
+
+## Rédaction manuscrit
+-> Sous-dossier comprenant images utiles à la rédaction
+-> Différentes prises de notes et parties du devoir
+-> Dossier Bibliogrpahie et prises de notes 
+
+## Données 
+-> Fichier comprenant prises de notes des différentes séances exploitées
+
+## Notebooks et codes
+-> Fichier comprenant explication détaillées des codes et ajustements éventuels
+-> Divisés en fonction des parties où le code a été utile 
+
+# ------------------------------------------------------------
 ## M2/Code :
 Notebooks utilisés pour la production des divers premiers résultats dont en voici une courte description : 
 - Calculs_stats_simple_moyenne : Comme son nom l'indique, premiers calculs pour prendre le corpus en main. Taille des séances moyennes, répartition du nombre de mots, etc.
