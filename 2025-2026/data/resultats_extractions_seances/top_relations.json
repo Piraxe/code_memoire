@@ -1,0 +1,102 @@
+[
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Angel",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Bahier",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Blacque-Belair",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Bourgoing",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Dalmagne",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Delmont",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Dommange",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Dubosc",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Guillaumin",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Jonas",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Morane",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Perrot",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Pompéry",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Spartacus",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Tirel",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aboville",
+    "personne_b": "Vernay",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aldebert",
+    "personne_b": "Balthazar",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aldebert",
+    "personne_b": "Cauderon",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aldebert",
+    "personne_b": "Chazette",
+    "similarite": 1.0
+  },
+  {
+    "personne_a": "Aldebert",
+    "personne_b": "Clotaire",
+    "similarite": 1.0
+  }
+]
